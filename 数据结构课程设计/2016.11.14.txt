@@ -1,0 +1,19 @@
+typedef struct ArcNode{
+	int 
+	struct ArcNode *next;
+	int weight;
+}ArcNode;
+
+#define MAX_VERTEX_NUM 20;
+
+type struct Node{
+	int id;
+	struct ArcNode *first;
+	
+}Node,AdjList[MAX_VERTEX_NUM];
+
+typedef struct ALGraph{
+	int maxNode;
+	Node[maxNode] nodes;
+	int arcNum;
+}ALGraph;

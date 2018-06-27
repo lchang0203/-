@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1479751890 source:c:\users\jarvi\desktop\数据结构实验\tour\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+	"showMenu.h"
+	"creatGraph.h"
+	"DFS.h"
+	"Dijkstra.h"
+
+1479747268 c:\users\jarvi\desktop\数据结构实验\tour\head.h
+
+1479126991 c:\users\jarvi\desktop\数据结构实验\tour\showmenu.h
+
+1479752113 c:\users\jarvi\desktop\数据结构实验\tour\creatgraph.h
+	"head.h"
+
+1479727681 c:\users\jarvi\desktop\数据结构实验\tour\dfs.h
+	"head.h"
+	"creatGraph.h"
+
+1479748831 c:\users\jarvi\desktop\数据结构实验\tour\dijkstra.h
+	"head.h"
+
